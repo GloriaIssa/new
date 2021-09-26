@@ -8,7 +8,7 @@ public class Vertebrado {
        this.claseVertebrado = claseVertebrado;
    }
    
-      
+     
    public void setNombreVertebrado( String nombreVertebrado) 
    {
        this.nombreVertebrado = nombreVertebrado;
