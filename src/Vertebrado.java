@@ -2,6 +2,7 @@ public class Vertebrado {
    protected String nombreVertebrado;  
    protected String claseVertebrado; // valores:mamífero, ave, pez, reptil, anfibio
    //comentario Gloria Sanchez prueba Github
+   //algopasa
    
    public Vertebrado(String nombreVertebrado, String claseVertebrado){
        this.nombreVertebrado = nombreVertebrado;
